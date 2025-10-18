@@ -1,0 +1,22 @@
+amino_acid_dict = {
+    'A': 'Alanine',
+    'C': 'Cysteine',
+    'D': 'Aspartic Acid',
+    'E': 'Glutamic Acid',
+    'F': 'Phenylalanine',
+    'G': 'Glycine',
+    'H': 'Histidine',
+    'I': 'Isoleucine',
+    'K': 'Lysine',
+    'L': 'Leucine',
+    'M': 'Methionine',
+    'N': 'Asparagine',
+    'P': 'Proline',
+    'Q': 'Glutamine',
+    'R': 'Arginine',
+    'S': 'Serine',
+    'T': 'Threonine',
+    'V': 'Valine',
+    'W': 'Tryptophan',
+    'Y': 'Tyrosine'
+}
